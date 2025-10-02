@@ -1,0 +1,22 @@
+{
+  "name": "aws_cicd_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkk200/aws-cicd-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkk200/aws-cicd-test/issues"
+  },
+  "homepage": "https://github.com/arkk200/aws-cicd-test#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
